@@ -10,11 +10,11 @@
 **Collaborative Editing and Sharing**: Colab allows multiple users to collaborate on a notebook in real-time. Users can share their notebooks with others, and changes are reflected instantly, facilitating collaboration among researchers, developers, or data scientists.
 - **Integration with Google Drive**: Colab integrates seamlessly with Google Drive. Users can save their Colab notebooks directly to Google Drive, making it easy to organize and share projects.
 - **Interactive Data Visualization**: With the help of libraries like Matplotlib and Seaborn, users can create interactive and visual representations of data directly within Colab notebooks.
-**Support for Markdown**: Colab supports Markdown cells, allowing users to include formatted text, images, and links within their notebooks, making documentation and explanation easier.
+- **Support for Markdown**: Colab supports Markdown cells, allowing users to include formatted text, images, and links within their notebooks, making documentation and explanation easier.
 - **Easy Access to Data**: Colab provides easy access to various data sources, including Google Drive, Google Sheets, and BigQuery. This simplifies the process of importing and working with datasets.
 # NumPy
 **Numerical Python**
-- NumPy is a powerful numerical computing library in Python. It is widely used in the scientific and data science communities.
+- NumPy is a powerful numerical computing library in Python. It is widely used in the scientific and data science communities.[NumPy Colab Notebook](https://colab.research.google.com/drive/17nymxsR-zXNeOXHpUrmzUQaeJ-ApnqRI)
 - **Efficient Array Operations**: NumPy provides a high-performance multi-dimensional array object called `numpy.ndarray` that allows for efficient manipulation of large datasets. It is implemented in C and Fortran, which makes array operations much faster than standard Python lists.
 - **Mathematical Functions**: NumPy includes a wide range of mathematical functions for performing operations on arrays. These functions are optimized for performance and are a key factor in why NumPy is so popular for numerical computing.
 - **Broadcasting**: NumPy supports a feature called broadcasting, which allows operations between arrays of different shapes and dimensions. This makes it easy to perform element-wise operations without explicitly reshaping arrays.
