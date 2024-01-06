@@ -2,6 +2,9 @@
 Python: Python is essential and basic tool to work with ML and there are lot of tools or libraries built upon python, they are
 - NumPy, IPython, Colab, Jupyter
 - from NumPy we have SciPy, matplotlib, pandas, scikit learn, Tenserflow, PyTorch, Keras and many more....
+# Colab
+Colab, short for Google Colaboratory, is a free, cloud-based platform provided by Google that allows users to write and execute Python code collaboratively. It is particularly popular in the field of data science and machine learning.
+- **Cloud-Based Environment**: Colab provides a Jupyter notebook environment hosted on Google Cloud. Users can create and run Jupyter notebooks directly in their web browsers without needing to install any software locally.
 # NumPy
 **Numerical Python**
 - NumPy is a powerful numerical computing library in Python. It is widely used in the scientific and data science communities.
