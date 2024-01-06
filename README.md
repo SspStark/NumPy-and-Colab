@@ -14,7 +14,7 @@
 - **Easy Access to Data**: Colab provides easy access to various data sources, including Google Drive, Google Sheets, and BigQuery. This simplifies the process of importing and working with datasets.
 # NumPy
 **Numerical Python**
-- NumPy is a powerful numerical computing library in Python. It is widely used in the scientific and data science communities.[NumPy Colab Notebook](https://colab.research.google.com/drive/17nymxsR-zXNeOXHpUrmzUQaeJ-ApnqRI)
+- NumPy is a powerful numerical computing library in Python. It is widely used in the scientific and data science communities. [NumPy Colab Notebook](https://colab.research.google.com/drive/17nymxsR-zXNeOXHpUrmzUQaeJ-ApnqRI)
 - **Efficient Array Operations**: NumPy provides a high-performance multi-dimensional array object called `numpy.ndarray` that allows for efficient manipulation of large datasets. It is implemented in C and Fortran, which makes array operations much faster than standard Python lists.
 - **Mathematical Functions**: NumPy includes a wide range of mathematical functions for performing operations on arrays. These functions are optimized for performance and are a key factor in why NumPy is so popular for numerical computing.
 - **Broadcasting**: NumPy supports a feature called broadcasting, which allows operations between arrays of different shapes and dimensions. This makes it easy to perform element-wise operations without explicitly reshaping arrays.
