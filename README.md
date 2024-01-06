@@ -1,3 +1,7 @@
+# Tools of ML
+Python: Python is essential and basic tool to work with ML and there are lot of tools or libraries built upon python, they are
+- NumPy, IPython, Colab, Jupyter
+- from NumPy we have SciPy, matplotlib, pandas, scikit learn, Tenserflow, PyTorch, Keras and many more....
 # NumPy
 **Numerical Python**
 - NumPy is a powerful numerical computing library in Python. It is widely used in the scientific and data science communities.
