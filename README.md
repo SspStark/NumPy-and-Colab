@@ -3,7 +3,7 @@
 - NumPy, IPython, Colab, Jupyter
 - from NumPy we have SciPy, matplotlib, pandas, scikit learn, Tenserflow, PyTorch, Keras and many more....
 # Colab
-[Colab](https://colab.google/), short for Google Colaboratory, is a free, cloud-based platform provided by Google that allows users to write and execute Python code collaboratively. It is particularly popular in the field of data science and machine learning.
+<a href="https://colab.google/" target="_blank">Colab</a>, short for Google Colaboratory, is a free, cloud-based platform provided by Google that allows users to write and execute Python code collaboratively. It is particularly popular in the field of data science and machine learning.
 - **Cloud-Based Environment**: Colab provides a Jupyter notebook environment hosted on Google Cloud. Users can create and run Jupyter notebooks directly in their web browsers without needing to install any software locally.
 - **Free Access to GPU and TPU**: One of the standout features of Colab is the provision of free access to Graphics Processing Units (GPUs)(limited) and Tensor Processing Units (TPUs). This is particularly beneficial for running computationally intensive tasks, such as training machine learning models.
 - **Pre-installed Libraries**: Colab comes pre-installed with popular Python libraries and frameworks commonly used in data science and machine learning, including NumPy, Pandas, Matplotlib, TensorFlow, and PyTorch.
