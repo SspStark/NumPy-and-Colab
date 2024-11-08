@@ -28,3 +28,4 @@
 - [Indexing and Slicing](https://colab.research.google.com/drive/1aKG6DXQqPvWbXGdM1pLhOAf8fDdYiqMi)
 - [Array Operations & Ufuncs](https://colab.research.google.com/drive/1SIulfWe-mCBcPtd_pSg_T4HYf1csfSOW)
 - [Array Manipulation and Padding](https://colab.research.google.com/drive/11Im3-B71jtboWXCEU_lRsZfgmC5t6cSa)
+- [More NumPy Methods](https://colab.research.google.com/drive/1f04FRgT4rctOwPyArcdwmtBKYj55lJJ_)
