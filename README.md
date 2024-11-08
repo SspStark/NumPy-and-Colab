@@ -23,3 +23,8 @@
 - **Integration with Other Libraries**: NumPy seamlessly integrates with other scientific computing libraries, such as SciPy, Matplotlib, and scikit-learn, forming a powerful ecosystem for scientific computing and data analysis in Python.
 - **Memory Efficiency**: NumPy arrays are more memory-efficient than standard Python lists, which is important when dealing with large datasets.
 - **Indexing and Slicing**: NumPy allows for advanced indexing and slicing operations, making it easy to extract and manipulate data from arrays.
+- [Introduction to NumPy](https://colab.research.google.com/drive/1MFZAWv_1EnEPYpAn8HfxqF1TdHqUulMb)
+- [Creating NumPy Arrays](https://colab.research.google.com/drive/15B3r4WE8p5-rV6oK4mvQVp0F5k3opSbi)
+- [Indexing and Slicing](https://colab.research.google.com/drive/1aKG6DXQqPvWbXGdM1pLhOAf8fDdYiqMi)
+- [Array Operations & Ufuncs](https://colab.research.google.com/drive/1SIulfWe-mCBcPtd_pSg_T4HYf1csfSOW)
+- [Array Manipulation and Padding](https://colab.research.google.com/drive/11Im3-B71jtboWXCEU_lRsZfgmC5t6cSa)
