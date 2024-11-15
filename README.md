@@ -30,3 +30,4 @@
 - [Array Manipulation and Padding](https://colab.research.google.com/drive/11Im3-B71jtboWXCEU_lRsZfgmC5t6cSa)
 - [More NumPy Methods](https://colab.research.google.com/drive/1f04FRgT4rctOwPyArcdwmtBKYj55lJJ_)
 - [NumPy Coding Assignment - 1](https://colab.research.google.com/drive/137k1WryELqsEXvBSwUN4GEH2Y0zytDhw)
+- [NumPy Coding Assignment - 2](https://colab.research.google.com/drive/1DVxi2nm_rjpRze3YpuT--_fsOhUU3xP4)
