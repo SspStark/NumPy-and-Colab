@@ -32,3 +32,4 @@
 - [NumPy Coding Assignment - 1](https://colab.research.google.com/drive/137k1WryELqsEXvBSwUN4GEH2Y0zytDhw)
 - [Assignment - 1 Solutions](https://colab.research.google.com/drive/1WNTbZYfKIsCjK9id-jpeKBj941d0GQJW)
 - [NumPy Coding Assignment - 2](https://colab.research.google.com/drive/1DVxi2nm_rjpRze3YpuT--_fsOhUU3xP4)
+- [NumPy Coding Assignment - 3](https://colab.research.google.com/drive/1o4fB9laabWoibhRD4BTUctHJPHSiIX4a)
