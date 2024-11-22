@@ -32,4 +32,5 @@
 - [NumPy Coding Assignment - 1](https://colab.research.google.com/drive/137k1WryELqsEXvBSwUN4GEH2Y0zytDhw)
 - [Assignment - 1 Solutions](https://colab.research.google.com/drive/1WNTbZYfKIsCjK9id-jpeKBj941d0GQJW)
 - [NumPy Coding Assignment - 2](https://colab.research.google.com/drive/1DVxi2nm_rjpRze3YpuT--_fsOhUU3xP4)
+- [Assignment - 2 Solution](https://colab.research.google.com/drive/1eYFi1DMm6j8nr1bppZCc_5YqZTZyM7d1#scrollTo=03aeced1-552d-46f5-910b-9f10ff01836f)
 - [NumPy Coding Assignment - 3](https://colab.research.google.com/drive/1o4fB9laabWoibhRD4BTUctHJPHSiIX4a)
