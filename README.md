@@ -39,3 +39,4 @@
 ### Pandas
 - [Introduction to Pandas](https://colab.research.google.com/drive/11kZ2IOp5kaAYqp8rxviSiFexdNCxvYIY)
 - [Pandas: Indexes and Filtering](https://colab.research.google.com/drive/1eqg1z14G5INK8NyXtBMPiJVFv52wg5n_#scrollTo=-ICINaZC_RsM)
+- [Pandas: Modifying DataFrames and Series - Part 1](https://colab.research.google.com/drive/16feoI13D4NJqoh0L0z2KXNEbHwYqR_kT)
