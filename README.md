@@ -40,3 +40,4 @@
 - [Introduction to Pandas](https://colab.research.google.com/drive/11kZ2IOp5kaAYqp8rxviSiFexdNCxvYIY)
 - [Indexes and Filtering](https://colab.research.google.com/drive/1eqg1z14G5INK8NyXtBMPiJVFv52wg5n_#scrollTo=-ICINaZC_RsM)
 - [Modifying DataFrames and Series - Part 1](https://colab.research.google.com/drive/16feoI13D4NJqoh0L0z2KXNEbHwYqR_kT)
+- [Modifying DataFrames and Series - Part 2](https://colab.research.google.com/drive/1wTlu0YxkHlHq08aTSd56gFTU0ZONZiCj#scrollTo=cGNHIrYl-qhz)
