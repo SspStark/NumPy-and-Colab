@@ -47,5 +47,5 @@
 - [Cleaning Data](https://colab.research.google.com/drive/1Dk2aisznm7JFGUOHCDvhRZSr7zxwTF7j#scrollTo=85QdJwqugWjm)
 
 **Assignments**
-- [Pamdas Coding Assignment - 1](https://colab.research.google.com/drive/1a7FEeBkfvwtAFgqGjV6urEFVkB2waIj-#scrollTo=39qoYF-7wolH)
+- [Pandas Coding Assignment - 1](https://colab.research.google.com/drive/1a7FEeBkfvwtAFgqGjV6urEFVkB2waIj-#scrollTo=39qoYF-7wolH)
 - [Pandas Coding Assignment - 1 Solutions](https://colab.research.google.com/drive/1P8b9q2SifQOztF8ocvdnfC0K6ASBUYcN#scrollTo=8K7tTQwg1Snr)
