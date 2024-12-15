@@ -2,7 +2,7 @@
 **Python**: Python is essential and basic tool to work with ML and there are lot of tools and libraries built upon python, they are
 - NumPy, IPython, Colab, Jupyter
 - from NumPy we have SciPy, matplotlib, pandas, scikit learn, Tenserflow, PyTorch, Keras and many more....
-## Colab
+# Colab
 [Colab](https://colab.google/), short for Google Colaboratory, is a free, cloud-based platform provided by Google that allows users to write and execute Python code collaboratively. It is particularly popular in the field of data science and machine learning.
 - **Cloud-Based Environment**: Colab provides a Jupyter notebook environment hosted on Google Cloud. Users can create and run Jupyter notebooks directly in their web browsers without needing to install any software locally.
 - **Free Access to GPU and TPU**: One of the standout features of Colab is the provision of free access to Graphics Processing Units (GPUs)(limited) and Tensor Processing Units (TPUs). This is particularly beneficial for running computationally intensive tasks, such as training machine learning models.
@@ -12,7 +12,7 @@
 - **Interactive Data Visualization**: With the help of libraries like Matplotlib and Seaborn, users can create interactive and visual representations of data directly within Colab notebooks.
 - **Support for Markdown**: Colab supports Markdown cells, allowing users to include formatted text, images, and links within their notebooks, making documentation and explanation easier.
 - **Easy Access to Data**: Colab provides easy access to various data sources, including Google Drive, Google Sheets, and BigQuery. This simplifies the process of importing and working with datasets.
-## NumPy
+# NumPy
 **Numerical Python**
 - NumPy is a powerful numerical computing library in Python. It is widely used in the scientific and data science communities. [NumPy Colab Notebook](https://colab.research.google.com/drive/17nymxsR-zXNeOXHpUrmzUQaeJ-ApnqRI)
 - **Efficient Array Operations**: NumPy provides a high-performance multi-dimensional array object called `numpy.ndarray` that allows for efficient manipulation of large datasets. It is implemented in C and Fortran, which makes array operations much faster than standard Python lists.
@@ -38,7 +38,7 @@
 - [NumPy Coding Assignment - 3](https://colab.research.google.com/drive/1o4fB9laabWoibhRD4BTUctHJPHSiIX4a)
 - [Assignment - 3 Solutions](https://colab.research.google.com/drive/1SjKtVNCdfLkVhJR38Wg2dpWNAbcpickQ)
 
-## Pandas
+# Pandas
 - [Introduction to Pandas](https://colab.research.google.com/drive/11kZ2IOp5kaAYqp8rxviSiFexdNCxvYIY)
 - [Indexes and Filtering](https://colab.research.google.com/drive/1eqg1z14G5INK8NyXtBMPiJVFv52wg5n_#scrollTo=-ICINaZC_RsM)
 - [Modifying DataFrames and Series - Part 1](https://colab.research.google.com/drive/16feoI13D4NJqoh0L0z2KXNEbHwYqR_kT)
@@ -48,3 +48,4 @@
 
 **Assignments**
 - [Pamdas Coding Assignment - 1](https://colab.research.google.com/drive/1a7FEeBkfvwtAFgqGjV6urEFVkB2waIj-#scrollTo=39qoYF-7wolH)
+- [Pandas Coding Assignment - 1 Solutions](https://colab.research.google.com/drive/1P8b9q2SifQOztF8ocvdnfC0K6ASBUYcN#scrollTo=8K7tTQwg1Snr)
