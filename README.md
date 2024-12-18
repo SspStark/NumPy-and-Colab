@@ -23,12 +23,12 @@
 - **Integration with Other Libraries**: NumPy seamlessly integrates with other scientific computing libraries, such as SciPy, Matplotlib, and scikit-learn, forming a powerful ecosystem for scientific computing and data analysis in Python.
 - **Memory Efficiency**: NumPy arrays are more memory-efficient than standard Python lists, which is important when dealing with large datasets.
 - **Indexing and Slicing**: NumPy allows for advanced indexing and slicing operations, making it easy to extract and manipulate data from arrays.
-- [Introduction to NumPy](https://colab.research.google.com/drive/1MFZAWv_1EnEPYpAn8HfxqF1TdHqUulMb)
-- [Creating NumPy Arrays](https://colab.research.google.com/drive/15B3r4WE8p5-rV6oK4mvQVp0F5k3opSbi)
-- [Indexing and Slicing](https://colab.research.google.com/drive/1aKG6DXQqPvWbXGdM1pLhOAf8fDdYiqMi)
-- [Array Operations & Ufuncs](https://colab.research.google.com/drive/1SIulfWe-mCBcPtd_pSg_T4HYf1csfSOW)
-- [Array Manipulation and Padding](https://colab.research.google.com/drive/11Im3-B71jtboWXCEU_lRsZfgmC5t6cSa)
-- [More NumPy Methods](https://colab.research.google.com/drive/1f04FRgT4rctOwPyArcdwmtBKYj55lJJ_)
+- [Introduction to NumPy](https://colab.research.google.com/drive/1Sp1hYhlm78ct9SsFIAPrbh8sCMc374GH)
+- [Creating NumPy Arrays](https://colab.research.google.com/drive/1LtLMR9lhgTQDDBpKi6Uv07uPS0qYjt4S)
+- [Indexing and Slicing](https://colab.research.google.com/drive/130pAJam1eWpvVoV12yZy4ldxxJO_rFDr)
+- [Array Operations & Ufuncs](https://colab.research.google.com/drive/1Btpz90e2dT2COCJg-N2m7bNUIpwAjT1w)
+- [Array Manipulation and Padding](https://colab.research.google.com/drive/1ajOqkP4FAXL5o3Istn8W9wETlEBBTQlf)
+- [More NumPy Methods](https://colab.research.google.com/drive/15gtJ7NGi7POAmZTjuGE4msRM2kK3Rvgk)
 
 **Assignments**
 - [NumPy Coding Assignment - 1](https://colab.research.google.com/drive/137k1WryELqsEXvBSwUN4GEH2Y0zytDhw)
@@ -39,12 +39,12 @@
 - [Assignment - 3 Solutions](https://colab.research.google.com/drive/1SjKtVNCdfLkVhJR38Wg2dpWNAbcpickQ)
 
 # Pandas
-- [Introduction to Pandas](https://colab.research.google.com/drive/11kZ2IOp5kaAYqp8rxviSiFexdNCxvYIY)
-- [Indexes and Filtering](https://colab.research.google.com/drive/1eqg1z14G5INK8NyXtBMPiJVFv52wg5n_#scrollTo=-ICINaZC_RsM)
-- [Modifying DataFrames and Series - Part 1](https://colab.research.google.com/drive/16feoI13D4NJqoh0L0z2KXNEbHwYqR_kT)
-- [Modifying DataFrames and Series - Part 2](https://colab.research.google.com/drive/1wTlu0YxkHlHq08aTSd56gFTU0ZONZiCj#scrollTo=cGNHIrYl-qhz)
-- [Grouping and Aggregates](https://colab.research.google.com/drive/1InxKcwbYq6jxGBgWkA75Y_eH0eeIKh_7)
-- [Cleaning Data](https://colab.research.google.com/drive/1Dk2aisznm7JFGUOHCDvhRZSr7zxwTF7j#scrollTo=85QdJwqugWjm)
+- [Introduction to Pandas](https://colab.research.google.com/drive/11ksNWqLbNZD7cNgGjb8pxStO2-K_9fAJ)
+- [Indexes and Filtering](https://colab.research.google.com/drive/1sBddS0t2cI15vq-_fZmTXRg5crVCENNe)
+- [Modifying DataFrames and Series - Part 1](https://colab.research.google.com/drive/1wP3onKsyv_FIi3H37lZAQuq2XL61yqSs)
+- [Modifying DataFrames and Series - Part 2](https://colab.research.google.com/drive/1ruAh8QGQ-534Xquhu2HirI4mI3zBduz6)
+- [Grouping and Aggregates](https://colab.research.google.com/drive/1ML4FcQ2D1VFeGArzzVaBguJ97LVVk86b)
+- [Cleaning Data](https://colab.research.google.com/drive/1soHf-hKf4NUyy4VuyeE1ghsFMt_SzgIo)
 
 **Assignments**
 - [Pandas Coding Assignment - 1](https://colab.research.google.com/drive/1a7FEeBkfvwtAFgqGjV6urEFVkB2waIj-#scrollTo=39qoYF-7wolH)
